@@ -1,0 +1,41 @@
+order_id,customer_id,product_category,order_date,order_amount,rating,review_text,country
+ORD-1001,CUST-501,Electronics,2026-01-15,129.99,5,"The wireless noise cancelling headphones exceeded my expectations. Battery lasts two full days!",USA
+ORD-1002,CUST-742,Home & Kitchen,01/16/2026,45.50,4,"Good coffee grinder, a bit louder than expected but grinds beans evenly.",Canada
+ORD-1003,CUST-109,Apparel,2026-01-18,89.00,1,"Sizing is completely wrong. Ordered large, fits like a small. Returning immediately.",UK
+ORD-1004,CUST-883,Electronics,2026-01-20,349.99,5,"Fast shipping and the 4K monitor is crystal clear. Great for my home office setup.",USA
+ORD-1005,CUST-321,Books,01/22/2026,24.95,5,"Incredible read on cloud architectures and data systems. Highly recommended.",Germany
+ORD-1006,CUST-654,Home & Kitchen,2026-01-23,,3,"Decent blender for smoothies, but the plastic lid feels flimsy.",USA
+ORD-1007,CUST-912,Apparel,2026-01-25,59.99,4,"Comfortable running shoes, good arch support.",Australia
+ORD-1008,CUST-403,Electronics,2026-01-28,19.99,2,"USB-C cable stopped fast charging after just one week of light use.",USA
+ORD-1009,CUST-220,Beauty,02/01/2026,38.00,,Natural moisturizer that feels great without greasy residue.,France
+ORD-1010,CUST-771,Electronics,2026-02-02,799.00,5,"Outstanding laptop performance! Compiles code in seconds and battery is phenomenal.",UK
+ORD-1011,CUST-815,Books,2026-02-04,18.50,4,"Good introduction to modern SQL and data pipelines.",Canada
+ORD-1012,CUST-304,Home & Kitchen,02/05/2026,112.00,5,"Air fryer changed my dinner routine. Quick, healthy, and easy to wash.",USA
+ORD-1013,CUST-599,Apparel,2026-02-07,120.00,2,"Winter jacket looks nice but the zipper got stuck on day three.",Germany
+ORD-1014,CUST-412,Electronics,2026-02-10,49.99,4,"Mechanical keyboard feels satisfying to type on, nice RGB lighting modes.",USA
+ORD-1015,CUST-960,Beauty,2026-02-12,28.75,5,"Smells amazing and skin feels refreshed after daily use.",Australia
+ORD-1016,CUST-143,Home & Kitchen,02/14/2026,15.99,1,"Package arrived damaged and the ceramic mug was shattered into pieces.",USA
+ORD-1017,CUST-689,Books,2026-02-15,32.00,5,"Detailed case studies on distributed databases and cloud warehouses.",UK
+ORD-1018,CUST-255,Electronics,2026-02-17,210.50,3,"Smartwatch is okay. Step counter is accurate, but heart rate monitor disconnects.",Canada
+ORD-1019,CUST-874,Apparel,02/19/2026,42.00,5,"Soft organic cotton t-shirt. Holds up well in the wash.",France
+ORD-1020,CUST-331,Electronics,2026-02-20,89.99,1,"Bluetooth speaker keeps dropping connection every 5 minutes. Very frustrating.",USA
+ORD-1021,CUST-490,Home & Kitchen,2026-02-22,64.00,4,"Non-stick frying pan works as advertised. Heats evenly on induction stove.",Germany
+ORD-1022,CUST-602,Beauty,2026-02-24,55.00,4,"Gentle face cleanser. Doesn't dry out sensitive skin.",USA
+ORD-1023,CUST-198,Electronics,02/25/2026,599.99,5,"The tablet display is gorgeous and drawing stylus latency is practically zero.",UK
+ORD-1024,CUST-721,Books,2026-02-26,14.99,4,"Concise handbook for practical data warehousing concepts.",Australia
+ORD-1025,CUST-534,Apparel,2026-02-28,95.00,3,"Nice waterproof hiking pants, but pockets could be slightly deeper.",USA
+ORD-1026,CUST-810,Home & Kitchen,03/01/2026,85.00,5,"Stainless steel chef knife is razor sharp out of the box. Great balance.",Canada
+ORD-1027,CUST-299,Electronics,2026-03-02,39.99,2,"Webcam video quality is grainy in low light conditions.",USA
+ORD-1028,CUST-444,Beauty,2026-03-03,22.50,5,"Hydrating lip balm with subtle peppermint scent. Will buy again.",France
+ORD-1029,CUST-918,Books,03/04/2026,29.95,4,"Clear explanation of AI agents and large language model architecture.",UK
+ORD-1030,CUST-677,Electronics,2026-03-05,149.00,5,"Robot vacuum navigates under furniture easily and mapped the floor plan quickly.",USA
+ORD-1031,CUST-355,Apparel,2026-03-06,75.00,1,"Color faded drastically after the first cold wash. Poor fabric quality.",Germany
+ORD-1032,CUST-112,Home & Kitchen,03/07/2026,199.99,5,"Espresso machine pulls rich crema shots. Paid for itself compared to cafes.",USA
+ORD-1033,CUST-840,Electronics,2026-03-09,79.99,3,"Smart home hub setup was difficult, but works fine once configured.",Canada
+ORD-1034,CUST-526,Beauty,2026-03-10,48.00,4,"Sunscreen absorbs quickly without white cast. Great under makeup.",Australia
+ORD-1035,CUST-763,Books,03/11/2026,16.50,5,"Fascinating overview of Snowflake internals and micro-partitioning.",USA
+ORD-1036,CUST-208,Apparel,2026-03-12,110.00,4,"Warm wool sweater for cold winter days. Fits true to size.",UK
+ORD-1037,CUST-944,Electronics,2026-03-14,25.00,1,"Portable power bank swelled after second charge. Potentially dangerous defect.",USA
+ORD-1038,CUST-380,Home & Kitchen,03/15/2026,34.99,4,"Electric kettle boils water in under two minutes with auto-shutoff.",France
+ORD-1039,CUST-619,Beauty,2026-03-16,62.00,5,"Luxury face oil that gives a healthy glow. Worth every penny.",Germany
+ORD-1040,CUST-482,Books,2026-03-18,21.00,5,"Actionable roadmap for breaking into data engineering with SQL and cloud.",USA
