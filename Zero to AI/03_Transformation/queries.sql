@@ -1,3 +1,8 @@
+-- ====================================================================
+-- YouTube : @MatuData (https://www.youtube.com/@MatuData)
+-- 🔔 Don't forget to subscribe to the channel!
+-- ====================================================================
+
 USE ROLE ACCOUNTADMIN;
 USE WAREHOUSE COMPUTE_WH;
 

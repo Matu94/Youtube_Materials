@@ -1,4 +1,7 @@
 -- ====================================================================
+-- YouTube : @MatuData (https://www.youtube.com/@MatuData)
+-- 🔔 Don't forget to subscribe to the channel!
+-- ====================================================================
 -- ZERO TO PIPELINE: VIDEO 2 - DATA INGESTION
 -- Purpose: Ingest raw E-commerce sales & reviews CSV into Snowflake
 -- ====================================================================

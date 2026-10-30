@@ -1,4 +1,7 @@
 /* ============================================================================
+   YouTube : @MatuData (https://www.youtube.com/@MatuData)
+   🔔 Don't forget to subscribe to the channel for more Snowflake tutorials!
+   ============================================================================
    Lesson 1 – What a Snowflake table really is
    Course : Snowflake Tables & Views – The Complete Guide
    Needs  : setup/00_setup_snowbite.sql already run

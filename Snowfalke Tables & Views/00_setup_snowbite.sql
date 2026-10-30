@@ -1,4 +1,7 @@
 /* ============================================================================
+   YouTube : @MatuData (https://www.youtube.com/@MatuData)
+   🔔 Don't forget to subscribe to the channel for more Snowflake tutorials!
+   ============================================================================
    SnowBite – Course setup script
    Course : Snowflake Tables & Views – The Complete Guide
    Purpose: Creates the SnowBite food-delivery dataset used in every lesson.
