@@ -20,3 +20,4 @@ Welcome to the companion repository for the **Snowflake Tables & Views** course.
 - **[`00_setup_snowbite.sql`](./00_setup_snowbite.sql)** — Course setup script that generates the synthetic **SnowBite** food-delivery dataset (`CITIES`, `RESTAURANTS`, `CUSTOMERS`, `COURIERS`, and `ORDERS`).
 - **[`01_what_is_a_table.sql`](./01_what_is_a_table.sql)** — Lesson 1: What a Snowflake table really is (metadata queries, micro-partition pruning, zero-copy cloning, and Time Travel).
 - **[`02_permanent_transient_temporary.sql`](./02_permanent_transient_temporary.sql)** — Lesson 2: Permanent vs Transient vs Temporary Tables (storage costs, Time Travel, Fail-safe trade-offs, and staging table best practices).
+- **[`03_every_type_of_view.sql`](./03_every_type_of_view.sql)** — Lesson 3: Every Type of View Explained (Standard, Secure, Materialized, Recursive, and Semantic Views).
